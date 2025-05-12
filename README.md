@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Faith Akinyi
 
-<!--
-**faith-53/faith-53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Web Developer** with a passion for creating clean, functional, and user-friendly applications.  
+I have a solid foundation in **Python** and **JavaScript**, and I'm currently diving deeper into modern web development tools and frameworks.
 
-Here are some ideas to get you started:
+##  Technologies I'm working with:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python, Django, Node.js, Express
+- Tools & Platforms: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Currently learning:
+- RESTful APIs
+- PostgreSQL and MongoDB
+- Deployment with Heroku and Netlify
+
+##  Goals:
+- Build and contribute to open-source projects
+- Land my first role as a junior web developer
+- Grow as a full-stack developer
+
+##  Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/faith-akinyi-5ab818350/)
+- Email: akinyifaith222@gmail.com
+
+Thanks for stopping by! 😊
